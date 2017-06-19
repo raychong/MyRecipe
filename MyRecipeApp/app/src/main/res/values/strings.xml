@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">MyRecipeApp</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+
+    <string name="title_create">Create Recipe</string>
+    <string name="title_edit">Edit Recipe</string>
+
+    <string name="title_category">Category</string>
+
+    <string name="hint_recipe_name">Name</string>
+    <string name="hint_recipe_steps">Steps</string>
+    <string name="hint_recipe_ingredients">Ingredients</string>
+
+
+    <string name="error_recipe_name">Name cannot be empty</string>
+    <string name="error_recipe_steps">Steps cannot be empty</string>
+    <string name="error_recipe_ingredients">Ingredients cannot be empty</string>
+    <string name="error_delete_failed">Failed to delete recipe</string>
+    <string name="error_failed_to_get_recipe">Failed to retrieve recipe details</string>
+
+    <string name="tag_selected_recipe">selectedRecipe</string>
+    <string name="tag_is_editmode">isEditMode</string>
+
+    <string name="dialog_delete_title">Delete Recipe?</string>
+    <string name="dialog_delete_message">Are you sure you want to delete this record?</string>
+
+    <string name="dialog_discard_title">Discard Changes?</string>
+    <string name="dialog_discard_message">Are you sure you want to discard?</string>
+
+    <string name="dialog_exit_message">Are you sure you want to exit?</string>
+</resources>
